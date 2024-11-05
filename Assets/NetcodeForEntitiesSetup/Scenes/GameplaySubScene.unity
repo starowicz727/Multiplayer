@@ -314,7 +314,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 268339525}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3f770ca4a2fd217498f336746e4319ce, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -350,7 +350,7 @@ GameObject:
   - component: {fileID: 350521655}
   - component: {fileID: 350521654}
   m_Layer: 0
-  m_Name: Plane
+  m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -646,7 +646,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1265010042}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3f770ca4a2fd217498f336746e4319ce, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -755,7 +755,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1374796232}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3f770ca4a2fd217498f336746e4319ce, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -946,7 +946,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2027326289}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3f770ca4a2fd217498f336746e4319ce, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
